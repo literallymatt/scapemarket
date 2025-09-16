@@ -11,4 +11,4 @@ items:
 
 settings:
   data_path: "data"
-  timestep: "1h"
+  timestep: "6h"
