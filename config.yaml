@@ -1,0 +1,14 @@
+api:
+  base_url: "https://prices.runescape.wiki/api/v1/osrs"
+  timeseries_endpoint: "/timeseries"
+  user_agent: "scapemarket - GE Price Predictor by literallymatt" # Be a good API citizen!
+
+items:
+  - name: "Twisted Bow"
+    id: 20997
+  - name: "Cannonball"
+    id: 2
+
+settings:
+  data_path: "data"
+  timestep: "1h"
